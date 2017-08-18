@@ -1,4 +1,4 @@
-package com.raditia.spring_demo;
+package com.raditia.spring_demo.controller;
 
 
 import org.springframework.stereotype.Controller;
