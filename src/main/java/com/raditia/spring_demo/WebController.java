@@ -10,5 +10,6 @@ public class WebController {
     @RequestMapping ("/")
     public String hello() {
 
+        return "index";
     }
 }
